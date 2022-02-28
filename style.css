@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#root {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 25px;
+}
+.target_div {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  background-color: rgb(13, 107, 189);
+}
+.target_div p {
+  margin: 0 auto;
+  color: white;
+  font-size: 20px;
+}
+.myInput {
+  font-size: 20px;
+  background-color: rgb(255, 94, 0);
+  color: white;
+  width: 80%;
+}
+.myButton {
+  font-size: 20px;
+}
+.clearButton {
+  font-size: 20px;
+}
